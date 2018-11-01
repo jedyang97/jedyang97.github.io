@@ -4,7 +4,7 @@ This is Jianing Yang. I am a fourth-year CS student at [Georgia Tech](http://gat
 
 In the past summers, I interned as a Software Development Engineer at Amazon Web Services (AWS).
 
-My research interests are in Machine Learning and Healthcare Analytics.
+My research interests are in Natural Language Processing, Machine Learning and Healthcare Analytics.
 
 # Projects
 
